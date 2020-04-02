@@ -1,4 +1,4 @@
-<h1> ICC 2020 Men'sT20 World Cup </h1> 
+<h1> ICC 2020 Men's Seventh T20 World Cup Tournament </h1> 
 
 
 <h2> Matches to be held in Australia and final will Host at MCG </h2>

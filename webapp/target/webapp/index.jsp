@@ -1,9 +1,9 @@
-<h1> International Cricket Council World Cup </h1> 
+<h1> ICC 2020 Men's Seventh T20 World Cup Tournament </h1> 
 
-<h2> 2020 Men's T20 world cup  </h2>
-<h2> Matches to be held in  Australia and final will Host at MCG </h2>
-<h2> Current champions: West Indies </h2>
-<h2> VENUES </h2>
+
+<h2> Matches to be held in Australia and final will Host at MCG </h2>
+<h2> Current champion: West Indies </h2>
+<h1> VENUES </h1>
 <h2> Sydney cricket ground                (Sydney) <h2>
 <h2> Melbourne cricket ground             (Melbourne) <h2>
 <h2> The Gabba                            (Brisbane) <h2>
